@@ -13,7 +13,7 @@ It demonstrates the **end-to-end ML lifecycle**:
 - **Evaluation** with confusion matrix, ROC/PR curves, and error analysis
 - **Deployment** as an interactive **Streamlit app** (single + batch predictions)
 
-⚡ A strong **project** showcasing applied NLP, scalable ML training, and real-world deployment.
+⚡ A strong project showcasing applied NLP, scalable ML training, and real-world deployment.
 
 ---
 
@@ -29,8 +29,6 @@ We map to string labels: **negative / positive**.
 ---
 
 ## 🚀 Quickstart (Google Colab)
-
-> This repo assumes you’ll **train** and **serve** the app in Colab, then push artifacts + notebook to GitHub for your portfolio/demo.
 
 ### 1) Training & Evaluation (Notebook)
 Open `notebooks/Sentiment140_Analysis.ipynb` in **Colab** and run cells in order.  
