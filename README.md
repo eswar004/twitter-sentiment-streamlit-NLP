@@ -13,7 +13,7 @@ It demonstrates the **end-to-end ML lifecycle**:
 - **Evaluation** with confusion matrix, ROC/PR curves, and error analysis
 - **Deployment** as an interactive **Streamlit app** (single + batch predictions)
 
-⚡ A strong ** project** showcasing applied NLP, scalable ML training, and real-world deployment.
+⚡ A strong **project** showcasing applied NLP, scalable ML training, and real-world deployment.
 
 ---
 
